@@ -1,0 +1,51 @@
+
+#imagendefondo{
+    width: 450px;
+clip-path: polygon(0 0, 100% 0, 100% 61%, 0 90%);
+margin:-16px 0 0 0px ;
+}
+#logo{
+    width: 150px;
+    margin:-140 20px 20px 130px;
+    position: relative;
+}
+#fondologin{
+    width: 450px;
+    background-color:white;
+    height: 550px;
+}
+#botonaceptar{
+background-color: rgb(10, 67, 105);
+color: cornsilk;
+font-family:cursive ;
+font-size: 15px;
+margin-top: 20px;
+width:420px ;
+border-radius: 5px;
+border: transparent;
+height: 35px;
+margin-left: 15px;
+}
+#enlacenotengo{
+    float: right;
+    padding-right: 20px;
+}
+#enlace{
+    padding-left: 20px;
+}
+.inputcontra{
+border-top:transparent ;
+border-left: transparent;
+border-right: transparent;
+border-bottom:solid 3px rgba(107, 107, 240, 0.431);
+width:400px;
+margin-left: 15px;
+height: 35px;
+
+}
+#label{
+margin-left: 15px;
+color: rgba(143, 129, 143, 0.589);
+
+
+}
